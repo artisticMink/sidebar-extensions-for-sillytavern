@@ -1,0 +1,12 @@
+{
+  "display_name":"Sidebar Extensions for SillyTavern",
+  "loading_order": 100,
+  "requires": [],
+  "optional": [],
+  "js": "index.js",
+  "css": "styles.css",
+  "author": "maver",
+  "version": "1.0.0",
+  "homePage": "https://github.com/artisticMink/sidebar-extensions-for-sillytavern/",
+  "auto_update": true
+}
