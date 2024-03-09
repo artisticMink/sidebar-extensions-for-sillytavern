@@ -1,0 +1,1 @@
+# sidebar-extensions-for-sillytavern
